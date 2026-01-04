@@ -1,20 +1,11 @@
-# Full Stack AI Career Coach with Next JS, Neon DB, Tailwind, Prisma, Inngest, Shadcn UI Tutorial 🔥🔥
-## https://youtu.be/UbXpRv5ApKA
-
-![sensai](https://github.com/user-attachments/assets/eee79242-4056-4d19-b655-2873788979e1)
-
-### Make sure to create a `.env` file with following variables -
-
-```
-DATABASE_URL=
-
-NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=
-CLERK_SECRET_KEY=
-
-NEXT_PUBLIC_CLERK_SIGN_IN_URL=/sign-in
-NEXT_PUBLIC_CLERK_SIGN_UP_URL=/sign-up
-NEXT_PUBLIC_CLERK_AFTER_SIGN_IN_URL=/onboarding
-NEXT_PUBLIC_CLERK_AFTER_SIGN_UP_URL=/onboarding
-
-GEMINI_API_KEY=
-```
+In today’s rapidly evolving job market, individuals often face difficulty in making informed career decisions due to the dynamic 
+nature of industry requirements, skill gaps, and information overload. Traditional career guidance systems provide generic 
+recommendations that fail to adapt to individual user profiles. This paper presents VerseAI, an AI-Based Career 
+Recommendation System designed to deliver personalized career insights using artificial intelligence. The system analyzes user
+specific data such as skills, experience, and industry preferences to generate tailored career recommendations. VerseAI leverages 
+modern full-stack technologies and AI-driven analysis to ensure scalability, accessibility, and efficiency. A small-scale evaluation 
+demonstrates the effectiveness of the system in providing relevant and actionable recommendations, highlighting its potential as 
+a decision support tool for career planning. 
+Index Terms 
+Career Recommendation System, Artificial Intelligence, Decision Support System, Personalized Career Guidance, Machine 
+Learning Applications, AI-Based Systems.
